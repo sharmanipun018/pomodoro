@@ -74,5 +74,4 @@ This project is open-source under the MIT License.
 Nipun Sharma
 
 https://github.com/sharmanipun018
-
-[LinkedIn][Your LinkedIn link here](https://www.linkedin.com/in/nipun-sharma-682168275/)
+https://www.linkedin.com/in/nipun-sharma-682168275/
